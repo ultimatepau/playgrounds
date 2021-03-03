@@ -1,0 +1,865 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Textfield renders correctly 1`] = `""`;
+
+exports[`Textfield renders correctly 2`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): ShallowWrapper {
+    Symbol(enzyme.__root__): [Circular],
+    Symbol(enzyme.__unrendered__): <JssProvider
+      registry={
+        SheetsRegistry {
+          "registry": Array [],
+        }
+      }
+    >
+      <ThemeProvider
+        theme={
+          Object {
+            "palette": Object {
+              "base": Object {
+                "primary": Object {
+                  "dark": "#BA0D0D",
+                  "light": "#F55151",
+                  "main": "#DE1B1B",
+                },
+                "secondary": Object {
+                  "dark": "#7D3CBE",
+                  "light": "#AD73E8",
+                  "main": "#9657D6",
+                },
+                "tertiary": Object {
+                  "dark": "#1D5BBF",
+                  "light": "#5691F0",
+                  "main": "#3071D9",
+                },
+              },
+              "common": Object {
+                "black": "#212121",
+                "white": "#FFFFFF",
+              },
+              "event": Object {
+                "disabled": Object {
+                  "main": "#BDBDBD",
+                },
+                "error": Object {
+                  "light": "#FAF0F0",
+                  "main": "#DE1B1B",
+                },
+                "information": Object {
+                  "light": "#EAF5FA",
+                  "main": "#229BD8",
+                },
+                "success": Object {
+                  "light": "#F4FCE3",
+                  "main": "#74B816",
+                },
+                "warning": Object {
+                  "light": "#FFF9DB",
+                  "main": "#F59F00",
+                },
+              },
+              "grey": Object {
+                "10": "#FAFAFA",
+                "100": "#212121",
+                "20": "#F5F5F5",
+                "30": "#EEEEEE",
+                "40": "#E0E0E0",
+                "50": "#BDBDBD",
+                "60": "#9E9E9E",
+                "70": "#757575",
+                "80": "#616161",
+                "90": "#424242",
+              },
+              "text": Object {
+                "primary": Object {
+                  "dark": "#F55151",
+                  "light": "#900E0E",
+                },
+                "secondary": Object {
+                  "dark": "#AD73E8",
+                  "light": "#632B9C",
+                },
+                "tertiary": Object {
+                  "dark": "#AD73E8",
+                  "light": "#632B9C",
+                },
+              },
+            },
+            "pxToRem": [Function],
+            "typography": Object {
+              "body1": Object {
+                "fontSize": "16px",
+                "fontWeight": 400,
+              },
+              "body2": Object {
+                "fontSize": "14px",
+                "fontWeight": 400,
+              },
+              "button": Object {
+                "fontSize": "14px",
+                "fontWeight": 700,
+              },
+              "caption": Object {
+                "fontSize": "12px",
+                "fontWeight": 400,
+              },
+              "fontFamily": "Roboto",
+              "fontSize": 14,
+              "fontSizeInherit": "inherit",
+              "fontWeightBold": 700,
+              "fontWeightLight": 300,
+              "fontWeightMedium": 500,
+              "fontWeightRegular": 400,
+              "h1": Object {
+                "fontSize": "60px",
+                "fontWeight": 300,
+              },
+              "h2": Object {
+                "fontSize": "48px",
+                "fontWeight": 400,
+              },
+              "h3": Object {
+                "fontSize": "34px",
+                "fontWeight": 400,
+              },
+              "h4": Object {
+                "fontSize": "24px",
+                "fontWeight": 400,
+              },
+              "h5": Object {
+                "fontSize": "20px",
+                "fontWeight": 500,
+              },
+              "overline1": Object {
+                "fontSize": "10px",
+                "fontWeight": 400,
+              },
+              "overline2": Object {
+                "fontSize": "10px",
+                "fontWeight": 500,
+              },
+              "subtitle1": Object {
+                "fontSize": "16px",
+                "fontWeight": 400,
+              },
+              "subtitle2": Object {
+                "fontSize": "14px",
+                "fontWeight": 500,
+              },
+            },
+          }
+        }
+      >
+        <Jss(Textfield)
+          _renderid="rendered-component"
+          input={Object {}}
+          meta={
+            Object {
+              "color": "primary",
+              "disabled": "false",
+              "error": null,
+              "helper": "",
+              "icon": null,
+              "icon-align": "right",
+              "placeholder": "",
+              "type": null,
+              "variant": "basic-filled",
+            }
+          }
+          onClick={[MockFunction]}
+        />
+      </ThemeProvider>
+    </JssProvider>,
+    Symbol(enzyme.__renderer__): Object {
+      "batchedUpdates": [Function],
+      "checkPropTypes": [Function],
+      "getNode": [Function],
+      "render": [Function],
+      "simulateError": [Function],
+      "simulateEvent": [Function],
+      "unmount": [Function],
+    },
+    Symbol(enzyme.__node__): Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": <Jss(Textfield)
+          _renderid="rendered-component"
+          input={Object {}}
+          meta={
+            Object {
+              "color": "primary",
+              "disabled": "false",
+              "error": null,
+              "helper": "",
+              "icon": null,
+              "icon-align": "right",
+              "placeholder": "",
+              "type": null,
+              "variant": "basic-filled",
+            }
+          }
+          onClick={[MockFunction]}
+        />,
+        "theme": Object {
+          "palette": Object {
+            "base": Object {
+              "primary": Object {
+                "dark": "#BA0D0D",
+                "light": "#F55151",
+                "main": "#DE1B1B",
+              },
+              "secondary": Object {
+                "dark": "#7D3CBE",
+                "light": "#AD73E8",
+                "main": "#9657D6",
+              },
+              "tertiary": Object {
+                "dark": "#1D5BBF",
+                "light": "#5691F0",
+                "main": "#3071D9",
+              },
+            },
+            "common": Object {
+              "black": "#212121",
+              "white": "#FFFFFF",
+            },
+            "event": Object {
+              "disabled": Object {
+                "main": "#BDBDBD",
+              },
+              "error": Object {
+                "light": "#FAF0F0",
+                "main": "#DE1B1B",
+              },
+              "information": Object {
+                "light": "#EAF5FA",
+                "main": "#229BD8",
+              },
+              "success": Object {
+                "light": "#F4FCE3",
+                "main": "#74B816",
+              },
+              "warning": Object {
+                "light": "#FFF9DB",
+                "main": "#F59F00",
+              },
+            },
+            "grey": Object {
+              "10": "#FAFAFA",
+              "100": "#212121",
+              "20": "#F5F5F5",
+              "30": "#EEEEEE",
+              "40": "#E0E0E0",
+              "50": "#BDBDBD",
+              "60": "#9E9E9E",
+              "70": "#757575",
+              "80": "#616161",
+              "90": "#424242",
+            },
+            "text": Object {
+              "primary": Object {
+                "dark": "#F55151",
+                "light": "#900E0E",
+              },
+              "secondary": Object {
+                "dark": "#AD73E8",
+                "light": "#632B9C",
+              },
+              "tertiary": Object {
+                "dark": "#AD73E8",
+                "light": "#632B9C",
+              },
+            },
+          },
+          "pxToRem": [Function],
+          "typography": Object {
+            "body1": Object {
+              "fontSize": "16px",
+              "fontWeight": 400,
+            },
+            "body2": Object {
+              "fontSize": "14px",
+              "fontWeight": 400,
+            },
+            "button": Object {
+              "fontSize": "14px",
+              "fontWeight": 700,
+            },
+            "caption": Object {
+              "fontSize": "12px",
+              "fontWeight": 400,
+            },
+            "fontFamily": "Roboto",
+            "fontSize": 14,
+            "fontSizeInherit": "inherit",
+            "fontWeightBold": 700,
+            "fontWeightLight": 300,
+            "fontWeightMedium": 500,
+            "fontWeightRegular": 400,
+            "h1": Object {
+              "fontSize": "60px",
+              "fontWeight": 300,
+            },
+            "h2": Object {
+              "fontSize": "48px",
+              "fontWeight": 400,
+            },
+            "h3": Object {
+              "fontSize": "34px",
+              "fontWeight": 400,
+            },
+            "h4": Object {
+              "fontSize": "24px",
+              "fontWeight": 400,
+            },
+            "h5": Object {
+              "fontSize": "20px",
+              "fontWeight": 500,
+            },
+            "overline1": Object {
+              "fontSize": "10px",
+              "fontWeight": 400,
+            },
+            "overline2": Object {
+              "fontSize": "10px",
+              "fontWeight": 500,
+            },
+            "subtitle1": Object {
+              "fontSize": "16px",
+              "fontWeight": 400,
+            },
+            "subtitle2": Object {
+              "fontSize": "14px",
+              "fontWeight": 500,
+            },
+          },
+        },
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "_renderid": "rendered-component",
+          "input": Object {},
+          "meta": Object {
+            "color": "primary",
+            "disabled": "false",
+            "error": null,
+            "helper": "",
+            "icon": null,
+            "icon-align": "right",
+            "placeholder": "",
+            "type": null,
+            "variant": "basic-filled",
+          },
+          "onClick": [MockFunction],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [MockFunction],
+      },
+      "type": [Function],
+    },
+    Symbol(enzyme.__nodes__): Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "children": <Jss(Textfield)
+            _renderid="rendered-component"
+            input={Object {}}
+            meta={
+              Object {
+                "color": "primary",
+                "disabled": "false",
+                "error": null,
+                "helper": "",
+                "icon": null,
+                "icon-align": "right",
+                "placeholder": "",
+                "type": null,
+                "variant": "basic-filled",
+              }
+            }
+            onClick={[MockFunction]}
+          />,
+          "theme": Object {
+            "palette": Object {
+              "base": Object {
+                "primary": Object {
+                  "dark": "#BA0D0D",
+                  "light": "#F55151",
+                  "main": "#DE1B1B",
+                },
+                "secondary": Object {
+                  "dark": "#7D3CBE",
+                  "light": "#AD73E8",
+                  "main": "#9657D6",
+                },
+                "tertiary": Object {
+                  "dark": "#1D5BBF",
+                  "light": "#5691F0",
+                  "main": "#3071D9",
+                },
+              },
+              "common": Object {
+                "black": "#212121",
+                "white": "#FFFFFF",
+              },
+              "event": Object {
+                "disabled": Object {
+                  "main": "#BDBDBD",
+                },
+                "error": Object {
+                  "light": "#FAF0F0",
+                  "main": "#DE1B1B",
+                },
+                "information": Object {
+                  "light": "#EAF5FA",
+                  "main": "#229BD8",
+                },
+                "success": Object {
+                  "light": "#F4FCE3",
+                  "main": "#74B816",
+                },
+                "warning": Object {
+                  "light": "#FFF9DB",
+                  "main": "#F59F00",
+                },
+              },
+              "grey": Object {
+                "10": "#FAFAFA",
+                "100": "#212121",
+                "20": "#F5F5F5",
+                "30": "#EEEEEE",
+                "40": "#E0E0E0",
+                "50": "#BDBDBD",
+                "60": "#9E9E9E",
+                "70": "#757575",
+                "80": "#616161",
+                "90": "#424242",
+              },
+              "text": Object {
+                "primary": Object {
+                  "dark": "#F55151",
+                  "light": "#900E0E",
+                },
+                "secondary": Object {
+                  "dark": "#AD73E8",
+                  "light": "#632B9C",
+                },
+                "tertiary": Object {
+                  "dark": "#AD73E8",
+                  "light": "#632B9C",
+                },
+              },
+            },
+            "pxToRem": [Function],
+            "typography": Object {
+              "body1": Object {
+                "fontSize": "16px",
+                "fontWeight": 400,
+              },
+              "body2": Object {
+                "fontSize": "14px",
+                "fontWeight": 400,
+              },
+              "button": Object {
+                "fontSize": "14px",
+                "fontWeight": 700,
+              },
+              "caption": Object {
+                "fontSize": "12px",
+                "fontWeight": 400,
+              },
+              "fontFamily": "Roboto",
+              "fontSize": 14,
+              "fontSizeInherit": "inherit",
+              "fontWeightBold": 700,
+              "fontWeightLight": 300,
+              "fontWeightMedium": 500,
+              "fontWeightRegular": 400,
+              "h1": Object {
+                "fontSize": "60px",
+                "fontWeight": 300,
+              },
+              "h2": Object {
+                "fontSize": "48px",
+                "fontWeight": 400,
+              },
+              "h3": Object {
+                "fontSize": "34px",
+                "fontWeight": 400,
+              },
+              "h4": Object {
+                "fontSize": "24px",
+                "fontWeight": 400,
+              },
+              "h5": Object {
+                "fontSize": "20px",
+                "fontWeight": 500,
+              },
+              "overline1": Object {
+                "fontSize": "10px",
+                "fontWeight": 400,
+              },
+              "overline2": Object {
+                "fontSize": "10px",
+                "fontWeight": 500,
+              },
+              "subtitle1": Object {
+                "fontSize": "16px",
+                "fontWeight": 400,
+              },
+              "subtitle2": Object {
+                "fontSize": "14px",
+                "fontWeight": 500,
+              },
+            },
+          },
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "_renderid": "rendered-component",
+            "input": Object {},
+            "meta": Object {
+              "color": "primary",
+              "disabled": "false",
+              "error": null,
+              "helper": "",
+              "icon": null,
+              "icon-align": "right",
+              "placeholder": "",
+              "type": null,
+              "variant": "basic-filled",
+            },
+            "onClick": [MockFunction],
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [MockFunction],
+        },
+        "type": [Function],
+      },
+    ],
+    Symbol(enzyme.__options__): Object {
+      "adapter": ReactSixteenAdapter {
+        "options": Object {
+          "enableComponentDidUpdateOnSetState": true,
+          "legacyContextMode": "parent",
+          "lifecycles": Object {
+            "componentDidUpdate": Object {
+              "onSetState": true,
+            },
+            "getChildContext": Object {
+              "calledByRenderer": false,
+            },
+            "getDerivedStateFromError": true,
+            "getDerivedStateFromProps": Object {
+              "hasShouldComponentUpdateBug": false,
+            },
+            "getSnapshotBeforeUpdate": true,
+            "setState": Object {
+              "skipsComponentDidUpdateOnNullish": true,
+            },
+          },
+        },
+      },
+      Symbol(enzyme.__providerValues__): undefined,
+    },
+    Symbol(enzyme.__providerValues__): Map {},
+    Symbol(enzyme.__childContext__): Object {
+      "6fc570d6bd61383819d0f9e7407c452d": Object {
+        "generateClassName": [Function],
+      },
+      "b768b78919504fba9de2c03545c5cd3a": Object {},
+      "d4bd0baacbc52bbd48bbb9eb24344ecd": SheetsRegistry {
+        "registry": Array [],
+      },
+    },
+  },
+  Symbol(enzyme.__unrendered__): null,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "_renderid": "rendered-component",
+      "input": Object {},
+      "meta": Object {
+        "color": "primary",
+        "disabled": "false",
+        "error": null,
+        "helper": "",
+        "icon": null,
+        "icon-align": "right",
+        "placeholder": "",
+        "type": null,
+        "variant": "basic-filled",
+      },
+      "onClick": [MockFunction],
+    },
+    "ref": null,
+    "rendered": null,
+    "type": [MockFunction],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "_renderid": "rendered-component",
+        "input": Object {},
+        "meta": Object {
+          "color": "primary",
+          "disabled": "false",
+          "error": null,
+          "helper": "",
+          "icon": null,
+          "icon-align": "right",
+          "placeholder": "",
+          "type": null,
+          "variant": "basic-filled",
+        },
+        "onClick": [MockFunction],
+      },
+      "ref": null,
+      "rendered": null,
+      "type": [MockFunction],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__rootNodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": <Jss(Textfield)
+          _renderid="rendered-component"
+          input={Object {}}
+          meta={
+            Object {
+              "color": "primary",
+              "disabled": "false",
+              "error": null,
+              "helper": "",
+              "icon": null,
+              "icon-align": "right",
+              "placeholder": "",
+              "type": null,
+              "variant": "basic-filled",
+            }
+          }
+          onClick={[MockFunction]}
+        />,
+        "theme": Object {
+          "palette": Object {
+            "base": Object {
+              "primary": Object {
+                "dark": "#BA0D0D",
+                "light": "#F55151",
+                "main": "#DE1B1B",
+              },
+              "secondary": Object {
+                "dark": "#7D3CBE",
+                "light": "#AD73E8",
+                "main": "#9657D6",
+              },
+              "tertiary": Object {
+                "dark": "#1D5BBF",
+                "light": "#5691F0",
+                "main": "#3071D9",
+              },
+            },
+            "common": Object {
+              "black": "#212121",
+              "white": "#FFFFFF",
+            },
+            "event": Object {
+              "disabled": Object {
+                "main": "#BDBDBD",
+              },
+              "error": Object {
+                "light": "#FAF0F0",
+                "main": "#DE1B1B",
+              },
+              "information": Object {
+                "light": "#EAF5FA",
+                "main": "#229BD8",
+              },
+              "success": Object {
+                "light": "#F4FCE3",
+                "main": "#74B816",
+              },
+              "warning": Object {
+                "light": "#FFF9DB",
+                "main": "#F59F00",
+              },
+            },
+            "grey": Object {
+              "10": "#FAFAFA",
+              "100": "#212121",
+              "20": "#F5F5F5",
+              "30": "#EEEEEE",
+              "40": "#E0E0E0",
+              "50": "#BDBDBD",
+              "60": "#9E9E9E",
+              "70": "#757575",
+              "80": "#616161",
+              "90": "#424242",
+            },
+            "text": Object {
+              "primary": Object {
+                "dark": "#F55151",
+                "light": "#900E0E",
+              },
+              "secondary": Object {
+                "dark": "#AD73E8",
+                "light": "#632B9C",
+              },
+              "tertiary": Object {
+                "dark": "#AD73E8",
+                "light": "#632B9C",
+              },
+            },
+          },
+          "pxToRem": [Function],
+          "typography": Object {
+            "body1": Object {
+              "fontSize": "16px",
+              "fontWeight": 400,
+            },
+            "body2": Object {
+              "fontSize": "14px",
+              "fontWeight": 400,
+            },
+            "button": Object {
+              "fontSize": "14px",
+              "fontWeight": 700,
+            },
+            "caption": Object {
+              "fontSize": "12px",
+              "fontWeight": 400,
+            },
+            "fontFamily": "Roboto",
+            "fontSize": 14,
+            "fontSizeInherit": "inherit",
+            "fontWeightBold": 700,
+            "fontWeightLight": 300,
+            "fontWeightMedium": 500,
+            "fontWeightRegular": 400,
+            "h1": Object {
+              "fontSize": "60px",
+              "fontWeight": 300,
+            },
+            "h2": Object {
+              "fontSize": "48px",
+              "fontWeight": 400,
+            },
+            "h3": Object {
+              "fontSize": "34px",
+              "fontWeight": 400,
+            },
+            "h4": Object {
+              "fontSize": "24px",
+              "fontWeight": 400,
+            },
+            "h5": Object {
+              "fontSize": "20px",
+              "fontWeight": 500,
+            },
+            "overline1": Object {
+              "fontSize": "10px",
+              "fontWeight": 400,
+            },
+            "overline2": Object {
+              "fontSize": "10px",
+              "fontWeight": 500,
+            },
+            "subtitle1": Object {
+              "fontSize": "16px",
+              "fontWeight": 400,
+            },
+            "subtitle2": Object {
+              "fontSize": "14px",
+              "fontWeight": 500,
+            },
+          },
+        },
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "_renderid": "rendered-component",
+          "input": Object {},
+          "meta": Object {
+            "color": "primary",
+            "disabled": "false",
+            "error": null,
+            "helper": "",
+            "icon": null,
+            "icon-align": "right",
+            "placeholder": "",
+            "type": null,
+            "variant": "basic-filled",
+          },
+          "onClick": [MockFunction],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [MockFunction],
+      },
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__providerValues__): null,
+}
+`;

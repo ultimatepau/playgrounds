@@ -1,0 +1,1870 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component renders correctly 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className=""
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className=""
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-filled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined"
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-filled disabled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined"
+        disabled={true}
+        id="area-filled"
+        name="area-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="area-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-filled error 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined"
+        id="area-filled"
+        name="area-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="area-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className="undefined"
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-filled with icon 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      <svg
+        aria-hidden="true"
+        className="Component-root-0-1-47 Component-fontSizeInherit-0-1-43"
+        color={null}
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M21.4348 5.1035l-2.545-2.5469a2.5414 2.5414 0 0 0-3.5995 0L2.5652 15.294a2.5478 2.5478 0 0 0-.7456 1.8018v2.5468a2.5465 2.5465 0 0 0 2.5449 2.5478h2.5454a2.546 2.546 0 0 0 1.7998-.746L21.4347 8.706a2.5485 2.5485 0 0 0 0-3.6025zm-14.525 14.539H4.3646v-2.5467l9.9173-9.9273 2.5446 2.5476zM18.626 7.9148l-2.545-2.5473 1.009-1.01 2.5455 2.5468z"
+          data-name="Layer 1"
+          fillRule="evenodd"
+          transform="scale(Infinity, Infinity)"
+        />
+        <path
+          d="M0 0h24v24H0z"
+          data-name="Layer 2"
+          fill="none"
+          transform="scale(Infinity, Infinity)"
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined"
+        id="area-filled"
+        name="area-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="area-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-line 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined"
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-line disabled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined"
+        disabled={true}
+        id="area-line"
+        name="area-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="area-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-line error 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined undefined"
+        id="area-line"
+        name="area-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="area-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className="undefined"
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant area-line with icon 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      <svg
+        aria-hidden="true"
+        className="Component-root-0-1-47 Component-fontSizeInherit-0-1-43"
+        color={null}
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M21.4348 5.1035l-2.545-2.5469a2.5414 2.5414 0 0 0-3.5995 0L2.5652 15.294a2.5478 2.5478 0 0 0-.7456 1.8018v2.5468a2.5465 2.5465 0 0 0 2.5449 2.5478h2.5454a2.546 2.546 0 0 0 1.7998-.746L21.4347 8.706a2.5485 2.5485 0 0 0 0-3.6025zm-14.525 14.539H4.3646v-2.5467l9.9173-9.9273 2.5446 2.5476zM18.626 7.9148l-2.545-2.5473 1.009-1.01 2.5455 2.5468z"
+          data-name="Layer 1"
+          fillRule="evenodd"
+          transform="scale(Infinity, Infinity)"
+        />
+        <path
+          d="M0 0h24v24H0z"
+          data-name="Layer 2"
+          fill="none"
+          transform="scale(Infinity, Infinity)"
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined"
+        id="area-line"
+        name="area-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="area-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-filled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className=""
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className=""
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-filled disabled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined"
+        disabled={true}
+        id="basic-filled"
+        name="basic-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="basic-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-filled error 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined"
+        id="basic-filled"
+        name="basic-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="basic-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className="undefined"
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-filled with icon 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className=""
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      <svg
+        aria-hidden="true"
+        className="Component-root-0-1-47 Component-fontSizeInherit-0-1-43"
+        color={null}
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M21.4348 5.1035l-2.545-2.5469a2.5414 2.5414 0 0 0-3.5995 0L2.5652 15.294a2.5478 2.5478 0 0 0-.7456 1.8018v2.5468a2.5465 2.5465 0 0 0 2.5449 2.5478h2.5454a2.546 2.546 0 0 0 1.7998-.746L21.4347 8.706a2.5485 2.5485 0 0 0 0-3.6025zm-14.525 14.539H4.3646v-2.5467l9.9173-9.9273 2.5446 2.5476zM18.626 7.9148l-2.545-2.5473 1.009-1.01 2.5455 2.5468z"
+          data-name="Layer 1"
+          fillRule="evenodd"
+          transform="scale(Infinity, Infinity)"
+        />
+        <path
+          d="M0 0h24v24H0z"
+          data-name="Layer 2"
+          fill="none"
+          transform="scale(Infinity, Infinity)"
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className=""
+        id="basic-filled"
+        name="basic-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="basic-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-line 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined undefined"
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-line disabled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined undefined"
+        disabled={true}
+        id="basic-line"
+        name="basic-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="basic-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-line error 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined undefined undefined"
+        id="basic-line"
+        name="basic-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="basic-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className="undefined"
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant basic-line with icon 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      <svg
+        aria-hidden="true"
+        className="Component-root-0-1-47 Component-fontSizeInherit-0-1-43"
+        color={null}
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M21.4348 5.1035l-2.545-2.5469a2.5414 2.5414 0 0 0-3.5995 0L2.5652 15.294a2.5478 2.5478 0 0 0-.7456 1.8018v2.5468a2.5465 2.5465 0 0 0 2.5449 2.5478h2.5454a2.546 2.546 0 0 0 1.7998-.746L21.4347 8.706a2.5485 2.5485 0 0 0 0-3.6025zm-14.525 14.539H4.3646v-2.5467l9.9173-9.9273 2.5446 2.5476zM18.626 7.9148l-2.545-2.5473 1.009-1.01 2.5455 2.5468z"
+          data-name="Layer 1"
+          fillRule="evenodd"
+          transform="scale(Infinity, Infinity)"
+        />
+        <path
+          d="M0 0h24v24H0z"
+          data-name="Layer 2"
+          fill="none"
+          transform="scale(Infinity, Infinity)"
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined undefined"
+        id="basic-line"
+        name="basic-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="basic-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-filled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined"
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-filled disabled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined"
+        disabled={true}
+        id="multiline-filled"
+        name="multiline-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="multiline-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-filled error 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined"
+        id="multiline-filled"
+        name="multiline-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="multiline-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className="undefined"
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-filled with icon 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      <svg
+        aria-hidden="true"
+        className="Component-root-0-1-47 Component-fontSizeInherit-0-1-43"
+        color={null}
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M21.4348 5.1035l-2.545-2.5469a2.5414 2.5414 0 0 0-3.5995 0L2.5652 15.294a2.5478 2.5478 0 0 0-.7456 1.8018v2.5468a2.5465 2.5465 0 0 0 2.5449 2.5478h2.5454a2.546 2.546 0 0 0 1.7998-.746L21.4347 8.706a2.5485 2.5485 0 0 0 0-3.6025zm-14.525 14.539H4.3646v-2.5467l9.9173-9.9273 2.5446 2.5476zM18.626 7.9148l-2.545-2.5473 1.009-1.01 2.5455 2.5468z"
+          data-name="Layer 1"
+          fillRule="evenodd"
+          transform="scale(Infinity, Infinity)"
+        />
+        <path
+          d="M0 0h24v24H0z"
+          data-name="Layer 2"
+          fill="none"
+          transform="scale(Infinity, Infinity)"
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined"
+        id="multiline-filled"
+        name="multiline-filled"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="multiline-filled"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-line 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined"
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-line disabled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined"
+        disabled={true}
+        id="multiline-line"
+        name="multiline-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="multiline-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-line error 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined undefined"
+        id="multiline-line"
+        name="multiline-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor="multiline-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className="undefined"
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant multiline-line with icon 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined undefined"
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      <svg
+        aria-hidden="true"
+        className="Component-root-0-1-47 Component-fontSizeInherit-0-1-43"
+        color={null}
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M21.4348 5.1035l-2.545-2.5469a2.5414 2.5414 0 0 0-3.5995 0L2.5652 15.294a2.5478 2.5478 0 0 0-.7456 1.8018v2.5468a2.5465 2.5465 0 0 0 2.5449 2.5478h2.5454a2.546 2.546 0 0 0 1.7998-.746L21.4347 8.706a2.5485 2.5485 0 0 0 0-3.6025zm-14.525 14.539H4.3646v-2.5467l9.9173-9.9273 2.5446 2.5476zM18.626 7.9148l-2.545-2.5473 1.009-1.01 2.5455 2.5468z"
+          data-name="Layer 1"
+          fillRule="evenodd"
+          transform="scale(Infinity, Infinity)"
+        />
+        <path
+          d="M0 0h24v24H0z"
+          data-name="Layer 2"
+          fill="none"
+          transform="scale(Infinity, Infinity)"
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <textarea
+        className="undefined undefined undefined undefined"
+        id="multiline-line"
+        name="multiline-line"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="multiline-line"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant null disabled 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined"
+        disabled={true}
+        id={null}
+        name={null}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor={null}
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant null error 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className="undefined"
+        id={null}
+        name={null}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className="undefined"
+        htmlFor={null}
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className="undefined"
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Component should render variant null with icon 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className=""
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      <svg
+        aria-hidden="true"
+        className="Component-root-0-1-47 Component-fontSizeInherit-0-1-43"
+        color={null}
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M21.4348 5.1035l-2.545-2.5469a2.5414 2.5414 0 0 0-3.5995 0L2.5652 15.294a2.5478 2.5478 0 0 0-.7456 1.8018v2.5468a2.5465 2.5465 0 0 0 2.5449 2.5478h2.5454a2.546 2.546 0 0 0 1.7998-.746L21.4347 8.706a2.5485 2.5485 0 0 0 0-3.6025zm-14.525 14.539H4.3646v-2.5467l9.9173-9.9273 2.5446 2.5476zM18.626 7.9148l-2.545-2.5473 1.009-1.01 2.5455 2.5468z"
+          data-name="Layer 1"
+          fillRule="evenodd"
+          transform="scale(Infinity, Infinity)"
+        />
+        <path
+          d="M0 0h24v24H0z"
+          data-name="Layer 2"
+          fill="none"
+          transform="scale(Infinity, Infinity)"
+        />
+      </svg>
+    </div>
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className=""
+        id={null}
+        name={null}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor={null}
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;

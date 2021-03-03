@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component renders correctly 1`] = `
+<section
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    className=""
+  >
+    <div
+      className=""
+      id="wrapper"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <input
+        className=""
+        id="test"
+        name="test"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        placeholder="Address"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        type="text"
+      />
+      <label
+        className=""
+        htmlFor="test"
+      >
+        <b>
+          <p
+            className="Typography-root-0-1-30 Typography-overline2-0-1-29"
+          >
+            Address
+          </p>
+        </b>
+      </label>
+    </div>
+  </div>
+  <div
+    className=""
+  >
+    <p
+      className="Typography-root-0-1-30 Typography-overline1-0-1-28"
+    >
+      Helper Text
+    </p>
+  </div>
+</section>
+`;
